@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <! --- 
+  https://shakhzod-dev.uz/
   https://github.com/Shahzod010299
 --->
 
